@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Computers
+* Web Design
+  * :stuck_out_tongue:
+  * :alien:
